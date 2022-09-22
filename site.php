@@ -12,27 +12,19 @@
        /*
        echo "<h1>Hello Site<h1>";
        echo "<p>BROTHER</p>";
-
 //data type
-
        $ChN ="Sakib";
        $ChA ="22";
-
 //common stuff
-
        echo"Hi Brother I'm $ChN I'm a Good Guy.\n";
        echo"Currrently I'm $ChA Year Old\n";
        echo "<hr>";
-
 //using string
-
        $phrase = "We Are king.";
        echo "$phrase\n";
        echo strtolower("$phrase");
        echo strtoupper("$phrase");
        echo strlen("$phrase");
-
-
 //using string
        $phrase="we are the king brother.\n";
        $phrase[0]="F";
