@@ -9,7 +9,7 @@
   <body>
     <?php
 
-       /*
+       
        echo "<h1>Hello Site<h1>";
        echo "<p>BROTHER</p>";
 //data type
@@ -32,7 +32,7 @@
        echo $phrase;
        echo str_replace ("brother","bruh",$phrase);
        echo substr("$phrase",7,4); //7 erase the first 7 letter & 4 shows the first 4 letter
-*/
+
 
     ?>
 
