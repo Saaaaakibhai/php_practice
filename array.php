@@ -13,7 +13,7 @@
     echo $friends[0];
 
     echo count($friends);
-
+  
      ?>
   </body>
 </html>
